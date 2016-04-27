@@ -37,4 +37,3 @@ ThinkPHP遵循Apache2开源协议发布。Apache Licence是著名的非盈利开
 
 Hello World!
 who am i?
-again!
