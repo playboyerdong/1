@@ -1,0 +1,18 @@
+<!doctype html>
+<head>
+	<meta charset="utf-8">
+	<title>日常开发常用工具</title>
+</head>
+<style type="text/css" rel="stylesheet">
+	a{ text-decoration: none; color: #ff6699;}
+</style>
+<body>
+    <p>作者：二東</p>
+	<p><a href="http://web.chacuo.net/formatcss" target="_blank">在线代码格式化</a></p>
+	<p><a href="http://tool.chinaz.com/Tools/unixtime.aspx" target="_blank">时间戳转换</a></p>
+	<p><a href="http://www.sioe.cn/yingyong/yanse-rgb-16/" target="_blank">RGB颜色值与十六进制颜色码转换工具</a></p>
+	<p><a href="http://tool.chinaz.com/Tools/Unicode.aspx" target="_blank">Unicode编码转换工具</a></p>
+	<p><a href="http://fanyi.baidu.com/translate?query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#auto/zh/" target="_blank">在线翻译工具</a></p>
+    <p><a href="http://playboydongdong.sinaapp.com/vi.png" target="_blank">Vim常用命令</a></p>
+</body>
+</html>
